@@ -152,3 +152,12 @@ evoke = conjure up
 
 make = render
 
+underestimate = discount = dismiss
+
+guess = divine = surmise 
+
+entrance = enthral
+
+fugitive = fleeting
+
+try my best to = endeavor
